@@ -1,0 +1,6 @@
+first lets make a git folder in our computer
+git init
+add a file to the folder
+git add newfile.file
+git commit -m “new file added” newfile.file
+If you don’t provide file after the comment, everything you have done will be committed.
